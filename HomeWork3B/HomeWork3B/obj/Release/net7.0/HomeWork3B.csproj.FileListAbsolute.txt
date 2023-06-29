@@ -1,0 +1,15 @@
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/bin/Release/net7.0/HomeWork3B
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/bin/Release/net7.0/HomeWork3B.deps.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/bin/Release/net7.0/HomeWork3B.runtimeconfig.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/bin/Release/net7.0/HomeWork3B.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/bin/Release/net7.0/HomeWork3B.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.csproj.AssemblyReference.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.AssemblyInfoInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.AssemblyInfo.cs
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/refint/HomeWork3B.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/HomeWork3B.genruntimeconfig.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3B/HomeWork3B/HomeWork3B/obj/Release/net7.0/ref/HomeWork3B.dll
